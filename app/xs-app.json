@@ -10,5 +10,6 @@
       "source": "^/service/(.*)$",
       "destination": "srv-api"
     }
-  ]
+  ],
+  "authenticationMethod": "route"
 }
